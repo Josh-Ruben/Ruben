@@ -13,7 +13,7 @@ What I Do
 * 🚀 Squarespace Website Development
 * 📱 Responsive & Mobile-Friendly Websites
 
-My Goal
+My Goal:
 
 To help businesses and individuals create websites that look premium, build trust, and convert visitors into customers.
 
